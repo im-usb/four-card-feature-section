@@ -1,0 +1,131 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    background-color: #F2F2F2;
+    color: #4D4F62;
+}
+
+.page-main .heading {
+    max-width: 540px;
+    text-align: center;
+    margin: 80px auto 64px auto;
+}
+
+.page-main .heading h1 {
+    font-size: 36px;
+    font-weight: 200;
+}
+
+.page-main .heading p {
+    opacity: 0.5;
+}
+
+.page-main .heading .heading1 {
+    font-weight: 600;
+}
+
+.page-main .cards {
+    display: flex;
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.page-main .cards .section1 {
+    margin: auto 0;
+    background-color: #fff;
+    width: 31%;
+    border-top: solid #44D3D2;
+    border-width: 4px;
+    border-radius: 8px;
+    box-shadow: #83a7d280 0px 15px 18px -11px;
+}
+
+.page-main .cards .section2 {
+    margin: auto 30px auto 30px;
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+}
+
+.page-main .cards .section2 .card1 {
+    margin: 0 0 30px 0;
+    background-color: #fff;
+    border-top: solid #FF637B;
+    border-width: 4px;
+    border-radius: 8px;
+    box-shadow: #83a7d280 0px 15px 18px -11px;
+}
+
+.page-main .cards .section2 .card2 {
+    background-color: #fff;
+    border-top: solid #FCAE4A;
+    border-width: 4px;
+    border-radius: 8px;
+    box-shadow: #83a7d280 0px 15px 18px -11px;
+}
+
+.page-main .cards .section3 {
+    margin: auto 0;
+    background-color: #fff;
+    width: 31%;
+    border-top: solid #377FD2;
+    border-width: 4px;
+    border-radius: 8px;
+    box-shadow: #83a7d280 0px 15px 18px -11px;
+}
+
+.cards .section1 h2 {
+    margin: 32px 0 6px 32px;
+    font-size: 20px;
+}
+.cards .section1 p {
+    margin: 0 32px 40px 32px;
+    opacity: 0.5;
+}
+
+.cards .section1 img {
+    float: right;
+    padding: 0 32px 32px 0;
+}
+
+.cards .section3 h2 {
+    margin: 32px 0 6px 32px;
+    font-size: 20px;
+}
+.cards .section3 p {
+    margin: 0 32px 40px 32px;
+    opacity: 0.5;
+}
+
+.cards .section3 img {
+    float: right;
+    padding: 0 32px 32px 0; 
+}
+
+.cards .section2 .card1 h2 {
+    margin: 32px 0 6px 32px;
+    font-size: 20px;
+}
+.cards .section2 .card1 p {
+    margin: 0 32px 40px 32px;
+    opacity: 0.5;
+}
+
+.cards .section2 .card1 img {
+    float: right;
+    padding: 0 32px 32px 0;
+}
+
+.cards .section2 .card2 h2 {
+    margin: 32px 0 6px 32px;
+    font-size: 20px;
+}
+.cards .section2 .card2 p {
+    margin: 0 32px 40px 32px;
+    opacity: 0.5;
+}
+
+.cards .section2 .card2 img {
+    float: right;
+    padding: 0 32px 32px 0;
+}

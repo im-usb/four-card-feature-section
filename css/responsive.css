@@ -1,0 +1,54 @@
+@media only screen and (max-width: 768px) {
+
+.page-main .heading {
+    width: 83%;
+    text-align: center;
+    margin: 85px auto 76px auto;
+}
+
+.page-main .heading h1 {
+    font-size: 24px;
+}
+
+.page-main .heading p {
+    font-size: 15px;
+}
+
+.page-main .cards {
+    flex-direction: column;
+    width: 83%;
+}
+
+.page-main .cards .section1 {
+    margin: 0 auto 25px auto;
+    width: 100%;
+}
+
+.page-main .cards .section2 {
+    margin: 0 auto 25px auto;
+    width: 100%;
+}
+
+.page-main .cards .section2 .card1 {
+    width: 100%;
+}
+
+.page-main .cards .section2 .card2 {
+    width: 100%;
+}
+
+.page-main .cards .section3 {
+    margin: 0 auto 25px auto;
+    width: 100%;
+}
+
+.section1 p, .card1 p, .card2 p, .section3 p {
+    font-size: 13px;
+}
+
+.section1 img, .card1 img, .card2 img, .section3 img {
+    width: 57px;
+    padding: 0 28px 28px 0;
+}
+
+}
